@@ -1,0 +1,9 @@
+# Backups and temporary files
+*.bak
+*.backup
+*.tmp
+*~
+
+# OS artifacts
+.DS_Store
+Thumbs.db
