@@ -49,7 +49,7 @@ The script creates a timestamped backup of your current setup at `~/.config.smok
 | Keybinding | Action |
 | :--- | :--- |
 | `SUPER + Q` | Launch Kitty terminal |
-| `SUPER + SPACE` | Application Launcher (Rofi) |
+| `SUPER + SPACE` | Application Launcher (Quickshell) |
 | `SUPER + E` | File Manager (Thunar) |
 | `SUPER + C` | Close Active Window |
 | `SUPER + V` | Toggle Floating Window |
